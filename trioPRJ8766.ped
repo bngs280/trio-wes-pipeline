@@ -1,0 +1,4 @@
+# famID  sampleID    dadID   momID   sex  phenotype
+fam1     SRR26402599      SRR26402601  SRR26402598   2   2
+fam1     SRR26402601     0       0        1   1
+fam1     SRR26402598     0       0        2   2
